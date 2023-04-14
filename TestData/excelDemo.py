@@ -5,7 +5,7 @@ sheet = book.active
 Dict = {}
 cell = sheet.cell(row=1, column=2)
 print(cell.value)
-sheet.cell(row=2, column=2).value = "Ritesh"
+sheet.cell(row=2, column=2).value = "Ritesh Kaushal"
 
 print(sheet.cell(row=2, column=2).value)
 
