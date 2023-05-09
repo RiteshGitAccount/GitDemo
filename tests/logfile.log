@@ -206,3 +206,61 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-04-14 12:28:53,643 :INFO : test_e2e :Text received from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-04-14 12:28:55,571 :INFO : test_formSubmission :first name is Rakshit
+2023-04-14 17:39:02,185 :INFO : test_e2e :getting all the card titles
+2023-04-14 17:39:02,209 :INFO : test_e2e :iphone X
+2023-04-14 17:39:02,221 :INFO : test_e2e :Samsung Note 8
+2023-04-14 17:39:02,233 :INFO : test_e2e :Nokia Edge
+2023-04-14 17:39:02,244 :INFO : test_e2e :Blackberry
+2023-04-14 17:39:02,386 :INFO : test_e2e :Entering country name as ind
+2023-04-14 17:39:07,577 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-14 17:39:09,571 :INFO : test_formSubmission :first name is Rakshit
+2023-04-17 15:25:40,651 :INFO : test_e2e :getting all the card titles
+2023-04-17 15:25:40,671 :INFO : test_e2e :iphone X
+2023-04-17 15:25:40,683 :INFO : test_e2e :Samsung Note 8
+2023-04-17 15:25:40,694 :INFO : test_e2e :Nokia Edge
+2023-04-17 15:25:40,703 :INFO : test_e2e :Blackberry
+2023-04-17 15:25:40,832 :INFO : test_e2e :Entering country name as ind
+2023-04-17 15:25:45,998 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 15:25:48,115 :INFO : test_formSubmission :first name is Rakshit
+2023-04-17 15:25:57,413 :INFO : test_e2e :getting all the card titles
+2023-04-17 15:25:57,439 :INFO : test_e2e :iphone X
+2023-04-17 15:25:57,449 :INFO : test_e2e :Samsung Note 8
+2023-04-17 15:25:57,460 :INFO : test_e2e :Nokia Edge
+2023-04-17 15:25:57,471 :INFO : test_e2e :Blackberry
+2023-04-17 15:25:57,598 :INFO : test_e2e :Entering country name as ind
+2023-04-17 15:26:02,728 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 15:26:04,545 :INFO : test_formSubmission :first name is Rakshit
+2023-04-18 17:44:39,501 :INFO : test_e2e :getting all the card titles
+2023-04-18 17:44:39,528 :INFO : test_e2e :iphone X
+2023-04-18 17:44:39,539 :INFO : test_e2e :Samsung Note 8
+2023-04-18 17:44:39,550 :INFO : test_e2e :Nokia Edge
+2023-04-18 17:44:39,559 :INFO : test_e2e :Blackberry
+2023-04-18 17:44:39,690 :INFO : test_e2e :Entering country name as ind
+2023-04-18 17:44:44,865 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 20:13:08,862 :INFO : test_formSubmission :first name is Rakshit
+2023-04-19 10:28:21,727 :INFO : test_formSubmission :first name is Rakshit
+2023-04-20 14:45:06,180 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 13:48:43,021 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 16:19:04,259 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 16:22:14,308 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 16:33:40,992 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 16:52:28,060 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 16:55:08,325 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 17:05:36,026 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 17:07:05,420 :INFO : test_formSubmission :first name is Rakshit
+2023-04-24 17:09:06,113 :INFO : test_formSubmission :first name is Rakshit
+2023-04-25 10:33:50,193 :INFO : test_formSubmission :first name is Rakshit
+2023-04-25 10:46:31,041 :INFO : test_formSubmission :first name is Rakshit
+2023-04-25 10:47:21,219 :INFO : test_formSubmission :first name is Rakshit
+2023-04-25 13:05:10,596 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 13:48:19,776 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 13:54:35,739 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 14:02:24,731 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 14:03:07,203 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 15:24:43,579 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 15:25:11,659 :INFO : test_formSubmission :first name is Rakshit
+2023-05-09 16:47:34,931 :INFO : test_formSubmission :first name is Rakshit
