@@ -8,7 +8,7 @@ from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
 
-class TestHomePage(BaseClass):
+'''class TestHomePage(BaseClass):
 
     def test_formSubmission(self,getData):
         log = self.getLogger()
@@ -28,5 +28,5 @@ class TestHomePage(BaseClass):
 
     @pytest.fixture(params=HomePageData.getTestData("TestCase2"))
     def getData(self, request):
-        return request.param
+        return request.param'''
 

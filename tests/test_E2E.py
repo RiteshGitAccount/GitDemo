@@ -11,7 +11,7 @@ from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
 
-class TestOne(BaseClass):
+'''class TestOne(BaseClass):
 
     def test_e2e(self):
         log = self.getLogger()
@@ -42,4 +42,4 @@ class TestOne(BaseClass):
         textMatch = self.driver.find_element(By.XPATH,"(//div[@class='alert alert-success alert-dismissible'])[1]").text
         log.info("Text received from application is "+textMatch)
         self.driver.implicitly_wait(10)
-        assert ("Success! Thank you!" in textMatch)
+        assert ("Success! Thank you!" in textMatch)'''

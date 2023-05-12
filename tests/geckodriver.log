@@ -226,3 +226,65 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
 1683626101546	Marionette	INFO	Stopped listening on port 63536
 Dynamically enable window occlusion 1
+1683632851666	geckodriver	INFO	Listening on 127.0.0.1:57395
+1683632852193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilebYmTmN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683632852786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683632852792	Marionette	INFO	Listening on port 57402
+Read port: 57402
+WebDriver BiDi listening on ws://127.0.0.1:57396
+1683632852917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilebYmTmN\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57396/devtools/browser/9bc3862a-8945-4a3c-aa4f-d8272a741ab3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1683632861477	Marionette	INFO	Stopped listening on port 57402
+Dynamically enable window occlusion 1
+1683633843668	geckodriver	INFO	Listening on 127.0.0.1:57951
+1683633844190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileroXJW9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683633844550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683633844556	Marionette	INFO	Listening on port 57957
+Read port: 57957
+WebDriver BiDi listening on ws://127.0.0.1:57952
+1683633844701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 30468, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileroXJW9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57952/devtools/browser/1d5c1bc4-a00a-464e-b25d-29ea169c28bc
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1683633848744	Marionette	INFO	Stopped listening on port 57957
+Dynamically enable window occlusion 1
+1683807053566	geckodriver	INFO	Listening on 127.0.0.1:56087
+1683807054096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilefaBk40"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683807055107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683807055113	Marionette	INFO	Listening on port 56094
+Read port: 56094
+WebDriver BiDi listening on ws://127.0.0.1:56088
+1683807055303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RITESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilefaBk40\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56088/devtools/browser/85bdcad5-3ed4-4d63-bc6b-ad51fe7f0e8d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1683807059444	Marionette	INFO	Stopped listening on port 56094
+Dynamically enable window occlusion 1

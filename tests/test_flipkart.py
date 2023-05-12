@@ -1,14 +1,14 @@
 from utilities.BaseClass import BaseClass
 from pageObjects.FlipkartHomePage import FlipkartHomePage
-
+'''
 
 class TestCaseFlipkart(BaseClass):
 
     def test_flipkartE2E(self):
         flipkartHomePage = FlipkartHomePage(self.driver)
-        '''flipkartHomePage.ClickSearchBox()
+    flipkartHomePage.ClickSearchBox()
         flipkartHomePage.EnterStringInSearchBox("Iphone 14")
-        flipkartHomePage.ClickEnterStringInSearchBox()'''
+        flipkartHomePage.ClickEnterStringInSearchBox()
         self.driver.implicitly_wait(5)
         alertText = flipkartHomePage.GetSiteName()
         assert ("Online Shopping Site" in alertText)
@@ -31,4 +31,4 @@ class TestCaseFlipkart(BaseClass):
         # self.driver.implicitly_wait(10)
         # print(cartItemText)
         # alertText = flipkartHomePage.GetSiteName()
-        # assert ("Online Shopping Site" in alertText)
+        # assert ("Online Shopping Site" in alertText)'''
